@@ -1,0 +1,3 @@
+# cpperbot
+
+Little IRC bot
