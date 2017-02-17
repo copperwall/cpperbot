@@ -1,0 +1,3 @@
+[submodule "BadSocket"]
+	path = BadSocket
+	url = git@github.com:copperwall/BadSocket
